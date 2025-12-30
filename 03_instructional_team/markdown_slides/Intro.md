@@ -1,15 +1,15 @@
 ---
 marp: true
-theme: dsi-certificates-theme
-_class: invert
+theme: dsi_certificates_theme
 paginate: true
 math: mathjax
 ---
 
 # 0: Introduction to Statistical Learning
 
-```code
-$ echo "Data Science Institute"
+```console
+Data Sciences Institute
+Linear Regression, Classification, and Resampling
 ```
 
 ---
@@ -81,7 +81,7 @@ We use a simple formula to show how the budget (predictor) might be related to s
 
 ---
 ## What is Statistical Learning?
-![Sales Figure, w:700](./images/01_sales_fig.png) 
+![Sales Figure, bg right:50% w:650](./images/01_sales_fig.png) 
 
 The relationship between the advertising budgets and sales can be shown by a line of best fit, but there will always be some random error in our predictions. This random error shows that no model is perfect.
 
